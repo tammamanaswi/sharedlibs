@@ -1,4 +1,4 @@
-def call(branch)
+def call(name)
 {
-  echo "${branch}"
+  echo "${name}"
 }
